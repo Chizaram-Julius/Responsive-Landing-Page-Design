@@ -3,11 +3,6 @@ Responsive Photographer Landing Page built with HTML &amp; CSS to explore where 
 
 ---
 
-## 📸 Responsive Landing Page Design
-
-A modern, mobile-friendly landing page exploring **“Where should photographers grow their business — on a personal website or social media?”**
-Built with **HTML** and **CSS**, this project focuses on clean design, accessibility, and seamless responsiveness across all screen sizes.
-
 ### 🧠 **Overview**
 
 This project was designed to practice **responsive web design** principles while highlighting the importance of a strong online presence for creative professionals like photographers.
@@ -15,7 +10,6 @@ It demonstrates how to:
 
 * Structure semantic HTML for clarity
 * Style layouts effectively using CSS
-* Apply responsive design for different devices
 
 ---
 
@@ -37,7 +31,6 @@ It demonstrates how to:
 
 ### 💡 **What I Learned**
 
-* Creating responsive layouts with media queries
 * Organizing and naming CSS classes efficiently
 * Handling image paths for GitHub deployment
 * Using Figma designs as frontend references
