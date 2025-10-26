@@ -21,7 +21,6 @@ It demonstrates how to:
 
 ### ✨ **Features**
 
-* 📱 Fully responsive layout
 * 🎨 Clean, modern UI with professional typography
 * 🧭 Easy navigation and smooth section flow
 * 🖼️ Engaging visuals optimized for performance
